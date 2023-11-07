@@ -42,4 +42,4 @@ export default function SearchEngine(props) {
   );
 }
 
-<a>https://github.com/MagCost/react_app</a>;
+<a href="My GitHub repository">https://github.com/MagCost/react_app</a>;
