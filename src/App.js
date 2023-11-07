@@ -38,8 +38,10 @@ export default function SearchEngine(props) {
           It's {Math.round(temperature)}°C in {city}
         </h2>
       )}
+      <a href="My GitHub repository" target="_blank">
+        https://github.com/MagCost/react_app
+      </a>
+      ;
     </div>
   );
 }
-
-<a href="My GitHub repository">https://github.com/MagCost/react_app</a>;
